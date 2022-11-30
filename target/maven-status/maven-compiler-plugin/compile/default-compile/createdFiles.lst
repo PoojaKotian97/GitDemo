@@ -1,0 +1,9 @@
+SeleniumJava\pageobjects\ProductCatelogue.class
+SeleniumJava\resources\ExtentReporterNG.class
+SeleniumJava\pageobjects\ConfirmationPage.class
+SeleniumJava\pageobjects\LandingPage.class
+SeleniumJava\pageobjects\App.class
+SeleniumJava\pageobjects\OrdersPage.class
+SeleniumJava\pageobjects\PaymentPage.class
+SeleniumJava\pageobjects\MyCarts.class
+SeleniumJava\AbstractComponents\AbstractComponent.class

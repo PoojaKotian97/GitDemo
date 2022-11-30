@@ -1,0 +1,10 @@
+SeleniumJava\TestComponents\Listeners.class
+SeleniumJava\tests\StandAloneTest.class
+SeleniumJava\tests\AppTest.class
+SeleniumJava\TestComponents\BaseTest.class
+SeleniumJava\TestComponents\BaseTest$1.class
+SeleniumJava\data\DataReader.class
+SeleniumJava\tests\ErrorValidationsTest.class
+SeleniumJava\tests\SubmitOrderTest.class
+SeleniumJava\data\DataReader$1.class
+SeleniumJava\TestComponents\Retry.class
