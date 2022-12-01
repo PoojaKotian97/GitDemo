@@ -21,6 +21,8 @@ public class ErrorValidationsTest extends BaseTest {
 
 		ProductCatelogue productCatalouge = landingPage.loginApplication("poojakotian6@gmail.com", "Pooja@785"); //  productCatalouge object is not needed overhere
 		System.out.println(productCatalouge);
+		System.out.println("productCatalouge GIT new changes");
+		
 		
 		
 		Assert.assertEquals("Incorrect email or password.",landingPage.getErrorMessage()); //Incorrect email or password.
